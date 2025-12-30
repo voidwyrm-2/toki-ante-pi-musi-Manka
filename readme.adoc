@@ -1,0 +1,12 @@
+= toki-ante-pi-musi-Manka
+
+This is a fork of https://github.com/Shiverdog/toki-ante-pi-musi-Manka[Shiverdog/toki-ante-pi-musi-Manka],
+to add support for versions after 1.19 and mods.
+
+== Licensing
+
+=== Pack icon
+
+http://en.wikipedia.org/wiki/User:Eequor, CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0[], via Wikimedia Commons
+
+Image modified

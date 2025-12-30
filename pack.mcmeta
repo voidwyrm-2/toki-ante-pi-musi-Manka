@@ -1,6 +1,8 @@
 {
-	"pack": {
-		"pack_format":9,
-		"description": "Translates the Minecraft glossary terms. v1.19.2-0"
-	}
+    "pack": {
+        "description": "Translates the Minecraft glossary terms.",
+        "pack_format": 15,
+        "min_format": 15,
+        "max_format": 94.1
+    }
 }

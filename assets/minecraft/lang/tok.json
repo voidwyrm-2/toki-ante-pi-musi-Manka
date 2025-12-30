@@ -1,5 +1,5 @@
-{	
-	"advancements.adventure.spyglass_at_dragon.description": "o lukin e akesi pi ma pini kepeken palisa lukin",
+{
+    "advancements.adventure.spyglass_at_dragon.description": "o lukin e akesi pi ma pini kepeken palisa lukin",
     "advancements.end.dragon_egg.description": "o jo e sike mama akesi pi ma pini",
     "advancements.end.respawn_dragon.description": "o lon sin e akesi pi ma pini",
     "advancements.end.root.title": "ma pini",
@@ -54,8 +54,7 @@
     "subtitles.entity.endermite.hurt": "pipi pi ma pini li pakala",
     "subtitles.entity.parrot.imitate.ender_dragon": "waso toki li mu sama akesi pi ma pini",
     "subtitles.entity.parrot.imitate.endermite": "waso toki li mu sama pipi pi ma pini",
-	
-	"advancements.husbandry.netherite_hoe.description": "sina pona e ilo kasi kepeken mani pimeja... tan seme a!?",
+    "advancements.husbandry.netherite_hoe.description": "sina pona e ilo kasi kepeken mani pimeja... tan seme a!?",
     "advancements.nether.netherite_armor.description": "o jo e len ali pi mani pimeja",
     "block.minecraft.netherite_block": "leko pi mani pimeja",
     "item.minecraft.netherite_axe": "ilo kipisi pi mani pimeja",
@@ -69,8 +68,7 @@
     "item.minecraft.netherite_scrap": "mani pimeja pakala",
     "item.minecraft.netherite_shovel": "ilo ma pi mani pimeja",
     "item.minecraft.netherite_sword": "palisa utala pi mani pimeja",
-	
-	"advancements.end.levitate.description": "o tawa sewi lon leko 50 tan utala pi monsuta leko",
+    "advancements.end.levitate.description": "o tawa sewi lon leko 50 tan utala pi monsuta leko",
     "block.minecraft.black_shulker_box": "poki pimeja pi monsuta leko",
     "block.minecraft.blue_shulker_box": "poki pi laso telo pi monsuta leko",
     "block.minecraft.brown_shulker_box": "poki pi kule ma pi monsuta leko",
@@ -106,18 +104,15 @@
     "subtitles.entity.shulker.teleport": "monsuta leko li tawa wawa",
     "subtitles.entity.shulker_bullet.hit": "pana pi monsuta leko li pakala",
     "subtitles.entity.shulker_bullet.hurt": "pana pi monsuta leko li pakala",
-	
-	"entity.minecraft.mooshroom": "mani soko",
+    "entity.minecraft.mooshroom": "mani soko",
     "item.minecraft.mooshroom_spawn_egg": "sike mama pi mani soko",
     "subtitles.entity.mooshroom.convert": "mani soko li kama ante",
     "subtitles.entity.mooshroom.eat": "mani soko li moku",
     "subtitles.entity.mooshroom.milk": "mani soko li pana e telo mama",
     "subtitles.entity.mooshroom.suspicious_milk": "mani soko li pana nasa e telo",
-
-	"entity.minecraft.tropical_fish.predefined.8": "kala ko walo loje",
-	"entity.minecraft.tropical_fish.predefined.11": "kala ko walo pi loje jelo",
-	
-	"block.minecraft.banner.creeper.black": "monsuta pimeja pi seli pakala",
+    "entity.minecraft.tropical_fish.predefined.8": "kala ko walo loje",
+    "entity.minecraft.tropical_fish.predefined.11": "kala ko walo pi loje jelo",
+    "block.minecraft.banner.creeper.black": "monsuta pimeja pi seli pakala",
     "block.minecraft.banner.creeper.blue": "monsuta pi laso telo pi seli pakala",
     "block.minecraft.banner.creeper.brown": "monsuta pi kule ma pi seli pakala",
     "block.minecraft.banner.creeper.cyan": "monsuta laso pi seli pakala",
@@ -143,8 +138,7 @@
     "subtitles.entity.creeper.hurt": "monsuta pi seli pakala li pakala",
     "subtitles.entity.creeper.primed": "monsuta pi seli pakala li mu",
     "subtitles.entity.parrot.imitate.creeper": "waso toki li mu sama monsuta pi seli pakala",
-	
-	"advancements.adventure.spyglass_at_ghast.description": "o lukin e monsuta sewi kepeken palisa lukin",
+    "advancements.adventure.spyglass_at_ghast.description": "o lukin e monsuta sewi kepeken palisa lukin",
     "advancements.nether.return_to_sender.description": "o moli e monsuta sewi kepeken sike seli",
     "advancements.nether.uneasy_alliance.description": "o tawa e monsuta sewi tan ma anpa tawa ma pona... li moli e ona",
     "entity.minecraft.ghast": "monsuta sewi",
@@ -155,8 +149,7 @@
     "subtitles.entity.ghast.hurt": "monsuta sewi li pakala",
     "subtitles.entity.ghast.shoot": "monsuta sewi li pana",
     "subtitles.entity.parrot.imitate.ghast": "waso toki li mu sama monsuta sewi",
-	
-	"block.minecraft.dark_prismarine": "kiwen telo laso pimeja",
+    "block.minecraft.dark_prismarine": "kiwen telo laso pimeja",
     "block.minecraft.dark_prismarine_slab": "supa pi kiwen telo laso pimeja",
     "block.minecraft.dark_prismarine_stairs": "leko sewi pi kiwen telo laso pimeja",
     "block.minecraft.prismarine": "kiwen telo laso",
@@ -165,20 +158,16 @@
     "block.minecraft.prismarine_wall": "sinpin pi kiwen telo laso",
     "item.minecraft.prismarine_crystals": "kipisi pi kiwen telo laso suno",
     "item.minecraft.prismarine_shard": "kipisi pi kiwen telo laso",
-	
     "block.minecraft.netherrack": "kiwen seli",
-	"block.minecraft.magma_block": "kiwen pi telo seli",
-
+    "block.minecraft.magma_block": "kiwen pi telo seli",
     "block.minecraft.prismarine_brick_slab": "supa pi kiwen leko telo laso",
     "block.minecraft.prismarine_brick_stairs": "leko sewi pi kiwen leko telo laso",
     "block.minecraft.prismarine_bricks": "kiwen leko telo laso",
-
-	"block.minecraft.purpur_block": "kiwen nasa",
+    "block.minecraft.purpur_block": "kiwen nasa",
     "block.minecraft.purpur_pillar": "kiwen nasa palisa",
     "block.minecraft.purpur_slab": "supa kiwen nasa",
     "block.minecraft.purpur_stairs": "leko sewi nasa",
-
-	"advancements.adventure.avoid_vibration.description": "o tawa anpa lon poka pi soko pimeja anu monsuta kute tawa ni: ona li kute ala e sina",
+    "advancements.adventure.avoid_vibration.description": "o tawa anpa lon poka pi soko pimeja anu monsuta kute tawa ni: ona li kute ala e sina",
     "advancements.adventure.kill_mob_near_sculk_catalyst.description": "o moli e ijo lon poka pi soko pimeja mama",
     "block.minecraft.sculk": "soko pimeja",
     "block.minecraft.sculk_catalyst": "soko pimeja mama",
@@ -192,7 +181,6 @@
     "subtitles.block.sculk_sensor.clicking": "soko pimeja kute li open kalama",
     "subtitles.block.sculk_sensor.clicking_stop": "soko pimeja kute li pini kalama",
     "subtitles.block.sculk_shrieker.shriek": "soko pimeja kalama li mu",
-
     "advancements.anpa.explore_nether.description": "o lukin e ma anpa ali",
     "advancements.anpa.root.title": "ma anpa",
     "advancements.story.enter_the_nether.description": "o pali e selo pi lupa pi ma anpa, open e ona, li tawa insa",
@@ -218,8 +206,7 @@
     "item.minecraft.nether_star": "mun pi ma anpa",
     "item.minecraft.nether_wart": "soko wawa pi ma anpa",
     "item.minecraft.quartz": "kiwen walo pi ma anpa",
-
-	"advancements.nether.get_wither_skull.description": "o kama jo e lawa pi jan palisa pimeja",
+    "advancements.nether.get_wither_skull.description": "o kama jo e lawa pi jan palisa pimeja",
     "advancements.nether.summon_wither.description": "o kama e monsuta pi moli pimeja",
     "entity.minecraft.wither": "monsuta pi moli pimeja",
     "entity.minecraft.wither_skull": "lawa pi monsuta pi moli pimeja",
@@ -229,8 +216,7 @@
     "subtitles.entity.wither.hurt": "monsuta pi moli pimeja li pakala",
     "subtitles.entity.wither.shoot": "monsuta pi moli pimeja li utala",
     "subtitles.entity.wither.spawn": "monsuta pi moli pimeja li kama wawa",
-
-	"entity.minecraft.hoglin": "soweli seli",
+    "entity.minecraft.hoglin": "soweli seli",
     "entity.minecraft.zoglin": "soweli seli moli",
     "item.minecraft.hoglin_spawn_egg": "sike mama pi soweli seli",
     "item.minecraft.zoglin_spawn_egg": "sike mama pi soweli seli moli",
@@ -250,8 +236,7 @@
     "subtitles.entity.zoglin.death": "soweli seli moli li moli pini",
     "subtitles.entity.zoglin.hurt": "soweli seli moli li pakala",
     "subtitles.entity.zoglin.step": "soweli seli moli li tawa",
-	
-	"advMode.mode.redstoneTriggered": "wile pi ko wawa",
+    "advMode.mode.redstoneTriggered": "wile pi ko wawa",
     "block.minecraft.comparator": "ilo pi ante wawa pi ko wawa",
     "block.minecraft.deepslate_redstone_ore": "ko wawa lon insa pi kiwen anpa",
     "block.minecraft.redstone_block": "leko pi ko wawa",
@@ -262,8 +247,7 @@
     "block.minecraft.repeater": "ilo pi tenpo wawa pi ko wawa",
     "flat_world_preset.minecraft.redstone_ready": "ma tawa ko wawa",
     "item.minecraft.redstone": "ko wawa",
-	
-	"advancements.nether.distract_piglin.description": "o pana e mani jelo tawa jan mani",
+    "advancements.nether.distract_piglin.description": "o pana e mani jelo tawa jan mani",
     "entity.minecraft.piglin": "jan mani",
     "entity.minecraft.piglin_brute": "jan mani wawa",
     "entity.minecraft.zombified_piglin": "jan mani moli",
@@ -293,15 +277,13 @@
     "subtitles.entity.zombified_piglin.angry": "jan mani moli li mu ike",
     "subtitles.entity.zombified_piglin.death": "jan mani moli li moli",
     "subtitles.entity.zombified_piglin.hurt": "jan mani moli li pakala",
-	
-	"block.minecraft.farmland": "ma pi kama kasi",
-
-	"subtitles.item.goat_horn.play.call0": "palisa pi soweli nena li sona",
-	"subtitles.item.goat_horn.play.call1": "palisa pi soweli nena li mu",
-	"subtitles.item.goat_horn.play.call2": "palisa pi soweli nena li alasa",
-	"subtitles.item.goat_horn.play.call3": "palisa pi soweli nena li pilin",
-	"subtitles.item.goat_horn.play.call4": "palisa pi soweli nena li olin",
-	"subtitles.item.goat_horn.play.call5": "palisa pi soweli nena li kalama",
-	"subtitles.item.goat_horn.play.call6": "palisa pi soweli nena li wile",
-	"subtitles.item.goat_horn.play.call7": "palisa pi soweli nena li lukin"
+    "block.minecraft.farmland": "ma pi kama kasi",
+    "subtitles.item.goat_horn.play.call0": "palisa pi soweli nena li sona",
+    "subtitles.item.goat_horn.play.call1": "palisa pi soweli nena li mu",
+    "subtitles.item.goat_horn.play.call2": "palisa pi soweli nena li alasa",
+    "subtitles.item.goat_horn.play.call3": "palisa pi soweli nena li pilin",
+    "subtitles.item.goat_horn.play.call4": "palisa pi soweli nena li olin",
+    "subtitles.item.goat_horn.play.call5": "palisa pi soweli nena li kalama",
+    "subtitles.item.goat_horn.play.call6": "palisa pi soweli nena li wile",
+    "subtitles.item.goat_horn.play.call7": "palisa pi soweli nena li lukin"
 }
